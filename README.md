@@ -1,5 +1,7 @@
 # JDBC
-By This code you can connect the database (MySQL) with the help of persistence
+
+JDBC IS JAVA DATABASE connection
+By This code you can connect the database (MySQL) with the help of connection interface
 
 in thsi files the connection_i/statement_i file is presents the sql crud operations is written 
 
