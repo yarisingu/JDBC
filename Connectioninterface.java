@@ -21,7 +21,7 @@ public class App {
     // statement.execute(create database springdata);
     //statement.execute() is to method to execute sql query
  
-			statement.execute("create table tyre (t_id integer primary key , t_name varchar(55) not null, t_size integer)");
+     statement.execute("create table tyre (t_id integer primary key , t_name varchar(55) not null, t_size integer)");
     // this query is used to create the table
     
 			System.out.println("table created sucessfully");
